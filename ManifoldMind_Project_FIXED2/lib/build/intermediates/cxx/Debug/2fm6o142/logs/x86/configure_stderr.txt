@@ -1,0 +1,19 @@
+CMake Error at C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/ExternalProject.cmake:2666 (message):
+  error: could not find git for clone of llama_cpp-populate
+Call Stack (most recent call first):
+  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/ExternalProject.cmake:3716 (_ep_add_download_command)
+  CMakeLists.txt:23 (ExternalProject_Add)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/travi/ManifoldMind/ManifoldMind_Project_FIXED2/lib/.cxx/Debug/2fm6o142/x86/_deps/llama_cpp-subbuild/CMakeFiles/CMakeOutput.log".
+
+CMake Error at C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1075 (message):
+  CMake step for llama_cpp failed: 1
+Call Stack (most recent call first):
+  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1216:EVAL:2 (__FetchContent_directPopulate)
+  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1216 (cmake_language)
+  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1259 (FetchContent_Populate)
+  CMakeLists.txt:36 (FetchContent_MakeAvailable)
+
+

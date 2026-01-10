@@ -1,0 +1,20 @@
+@echo off
+"C:\\Users\\travi\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\cmake.exe" ^
+  "-HC:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp" ^
+  "-DCMAKE_SYSTEM_NAME=Android" ^
+  "-DCMAKE_EXPORT_COMPILE_COMMANDS=ON" ^
+  "-DCMAKE_SYSTEM_VERSION=29" ^
+  "-DANDROID_PLATFORM=android-29" ^
+  "-DANDROID_ABI=x86" ^
+  "-DCMAKE_ANDROID_ARCH_ABI=x86" ^
+  "-DANDROID_NDK=C:\\Users\\travi\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125" ^
+  "-DCMAKE_ANDROID_NDK=C:\\Users\\travi\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125" ^
+  "-DCMAKE_TOOLCHAIN_FILE=C:\\Users\\travi\\AppData\\Local\\Android\\Sdk\\ndk\\26.1.10909125\\build\\cmake\\android.toolchain.cmake" ^
+  "-DCMAKE_MAKE_PROGRAM=C:\\Users\\travi\\AppData\\Local\\Android\\Sdk\\cmake\\3.22.1\\bin\\ninja.exe" ^
+  "-DCMAKE_CXX_FLAGS=-std=c++17" ^
+  "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\build\\intermediates\\cxx\\Debug\\2fm6o142\\obj\\x86" ^
+  "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\build\\intermediates\\cxx\\Debug\\2fm6o142\\obj\\x86" ^
+  "-DCMAKE_BUILD_TYPE=Debug" ^
+  "-BC:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\.cxx\\Debug\\2fm6o142\\x86" ^
+  -GNinja ^
+  "-DLLAMA_BUILD_COMMON=ON"

@@ -1,0 +1,119 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 29 min SDK version: x86",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\.cxx\\Debug\\2fm6o142\\x86\\android_gradle_build.json due to:",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "- no fingerprint file, will remove stale configuration folder",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\.cxx\\Debug\\2fm6o142\\x86\u0027",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\.cxx\\Debug\\2fm6o142\\x86\u0027",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"C:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d29\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-29\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2fm6o142\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2fm6o142\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\.cxx\\\\Debug\\\\2fm6o142\\\\x86\" ^\n  -GNinja ^\n  \"-DLLAMA_BUILD_COMMON\u003dON\"\n",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"C:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d29\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-29\" ^\n  \"-DANDROID_ABI\u003dx86\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n  \"-DANDROID_NDK\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2fm6o142\\\\obj\\\\x86\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2fm6o142\\\\obj\\\\x86\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n  \"-BC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\.cxx\\\\Debug\\\\2fm6o142\\\\x86\" ^\n  -GNinja ^\n  \"-DLLAMA_BUILD_COMMON\u003dON\"\n",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "Received process result: 1",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed with problem. Exception: com.android.ide.common.process.ProcessException: -- The C compiler identification is Clang 17.0.2\n-- The CXX compiler identification is Clang 17.0.2\n-- Detecting C compiler ABI info\n-- Detecting C compiler ABI info - done\n-- Check for working C compiler: C:/Users/travi/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe - skipped\n-- Detecting C compile features\n-- Detecting C compile features - done\n-- Detecting CXX compiler ABI info\n-- Detecting CXX compiler ABI info - done\n-- Check for working CXX compiler: C:/Users/travi/AppData/Local/Android/Sdk/ndk/26.1.10909125/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe - skipped\n-- Detecting CXX compile features\n-- Detecting CXX compile features - done\n-- Configuring incomplete, errors occurred!\nSee also \"C:/Users/travi/ManifoldMind/ManifoldMind_Project_FIXED2/lib/.cxx/Debug/2fm6o142/x86/CMakeFiles/CMakeOutput.log\".\n\nC++ build system [configure] failed while executing:\n    @echo off\n    \"C:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n      \"-HC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\src\\\\main\\\\cpp\" ^\n      \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n      \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n      \"-DCMAKE_SYSTEM_VERSION\u003d29\" ^\n      \"-DANDROID_PLATFORM\u003dandroid-29\" ^\n      \"-DANDROID_ABI\u003dx86\" ^\n      \"-DCMAKE_ANDROID_ARCH_ABI\u003dx86\" ^\n      \"-DANDROID_NDK\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\" ^\n      \"-DCMAKE_ANDROID_NDK\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\" ^\n      \"-DCMAKE_TOOLCHAIN_FILE\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\ndk\\\\26.1.10909125\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n      \"-DCMAKE_MAKE_PROGRAM\u003dC:\\\\Users\\\\travi\\\\AppData\\\\Local\\\\Android\\\\Sdk\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n      \"-DCMAKE_CXX_FLAGS\u003d-std\u003dc++17\" ^\n      \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2fm6o142\\\\obj\\\\x86\" ^\n      \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\build\\\\intermediates\\\\cxx\\\\Debug\\\\2fm6o142\\\\obj\\\\x86\" ^\n      \"-DCMAKE_BUILD_TYPE\u003dDebug\" ^\n      \"-BC:\\\\Users\\\\travi\\\\ManifoldMind\\\\ManifoldMind_Project_FIXED2\\\\lib\\\\.cxx\\\\Debug\\\\2fm6o142\\\\x86\" ^\n      -GNinja ^\n      \"-DLLAMA_BUILD_COMMON\u003dON\"\n  from C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\nCMake Error at C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/ExternalProject.cmake:2666 (message):\n  error: could not find git for clone of llama_cpp-populate\nCall Stack (most recent call first):\n  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/ExternalProject.cmake:3716 (_ep_add_download_command)\n  CMakeLists.txt:23 (ExternalProject_Add)\n\n\n-- Configuring incomplete, errors occurred!\nSee also \"C:/Users/travi/ManifoldMind/ManifoldMind_Project_FIXED2/lib/.cxx/Debug/2fm6o142/x86/_deps/llama_cpp-subbuild/CMakeFiles/CMakeOutput.log\".\n\nCMake Error at C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1075 (message):\n  CMake step for llama_cpp failed: 1\nCall Stack (most recent call first):\n  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1216:EVAL:2 (__FetchContent_directPopulate)\n  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1216 (cmake_language)\n  C:/Users/travi/AppData/Local/Android/Sdk/cmake/3.22.1/share/cmake-3.22/Modules/FetchContent.cmake:1259 (FetchContent_Populate)\n  CMakeLists.txt:36 (FetchContent_MakeAvailable)",
+    "file_": "C:\\Users\\travi\\ManifoldMind\\ManifoldMind_Project_FIXED2\\lib\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "debug|x86",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 0
+  }
+]

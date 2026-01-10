@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data-extraction-rules>
+    <!-- Keep default behavior: do not allow cloud backup or device transfer by default for local models. -->
+</data-extraction-rules>
